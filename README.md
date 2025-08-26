@@ -24,7 +24,7 @@ This project replicates a customer segmentation initiative I originally complete
 
 ## Visualizations
 
-### 1. 3D Customer Segmentation (Most Important)
+### 1. 3D Customer Segmentation (Comprehensive Diagram)
 <table>
 <tr>
 <td style="width:70%;">
