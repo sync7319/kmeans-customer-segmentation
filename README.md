@@ -20,15 +20,17 @@ This project is similar to a customer segmentation initiative i originally compl
 
 ## Visualizations
 
-### 1. 3D Customer Segmentation (Most Important)
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/4e9ddc23-7144-4356-8048-d7271c15406d" width="400"/>
-  <p style="margin-left: 20px;">
-    A 3D visualization of customer segments across <b>Annual Income, Spending Score, and Age</b>.  
-    Each cluster highlights unique customer behaviors, enabling deeper insights into purchasing power 
-    and spending habits. This chart provides the most comprehensive segmentation view.
-  </p>
-</div>
+## 1. 3D Customer Segmentation (Most Important)
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/4e9ddc23-7144-4356-8048-d7271c15406d" width="400"/></td>
+<td>
+A 3D visualization of customer segments across <b>Annual Income, Spending Score, and Age</b>.  
+Each cluster highlights unique customer behaviors, enabling deeper insights into purchasing power and spending habits.  
+This chart provides the most comprehensive segmentation view.
+</td>
+</tr>
+</table>
 
 ### 2. Distribution of Annual Income
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
