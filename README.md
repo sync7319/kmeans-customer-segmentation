@@ -20,6 +20,8 @@ This project is similar to a customer segmentation initiative i originally compl
 
 ## Visualizations
 
+## Visualizations
+
 ### 1. 3D Customer Segmentation (Most Important)
 <table>
 <tr>
@@ -38,14 +40,14 @@ This chart provides the most comprehensive segmentation view.
 ### 2. Distribution of Annual Income
 <table>
 <tr>
-<td style="width:70%; vertical-align:top;">
-<img src="https://github.com/user-attachments/assets/b3d55eab-5716-4261-ac1b-e89295463d44" style="width:100%;"/>
-</td>
 <td style="width:30%; vertical-align:top;">
 Customer income distribution showing how purchasing power varies<br>
 across the dataset.<br><br>
 This distribution is foundational for understanding<br>
 potential segmentation boundaries.
+</td>
+<td style="width:70%;">
+<img src="https://github.com/user-attachments/assets/b3d55eab-5716-4261-ac1b-e89295463d44" style="width:100%;"/>
 </td>
 </tr>
 </table>
@@ -67,13 +69,13 @@ in engagement and purchasing patterns.
 ### 4. Customers in Age Group Bins
 <table>
 <tr>
-<td style="width:70%; vertical-align:top;">
-<img src="https://github.com/user-attachments/assets/344d22a0-f4de-4197-94ed-a808e2dbaf8" style="width:100%;"/>
-</td>
 <td style="width:30%; vertical-align:top;">
 Customer counts across defined age bins.<br><br>
 This helps reveal which age groups dominate the customer base<br>
 and supports targeted marketing strategies.
+</td>
+<td style="width:70%; vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/344d22a0-f4de-4197-94ed-a808e2dbaf8" style="width:100%;"/>
 </td>
 </tr>
 </table>
@@ -95,13 +97,13 @@ justifying the use of K-Means segmentation.
 ### 6. Elbow Method – Cluster Optimization
 <table>
 <tr>
-<td style="width:70%; vertical-align:top;">
-<img src="https://github.com/user-attachments/assets/0a4a8edc-b8ae-4a6f-8335-572a0a7ffcf8" style="width:100%;"/>
-</td>
 <td style="width:30%; vertical-align:top;">
 The elbow method determines the optimal number of clusters<br>
 for K-Means.<br><br>
 This ensures a balance between model complexity and interpretability.
+</td>
+<td style="width:70%; vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/0a4a8edc-b8ae-4a6f-8335-572a0a7ffcf8" style="width:100%;"/>
 </td>
 </tr>
 </table>
@@ -124,17 +126,16 @@ older conservative spenders, and more.
 ### 8. Customer Segments (Income vs Spending Score)
 <table>
 <tr>
-<td style="width:70%; vertical-align:top;">
-<img src="https://github.com/user-attachments/assets/8ebe0009-a55c-49ce-94bb-258dc0c25694" style="width:100%;"/>
-</td>
 <td style="width:30%; vertical-align:top;">
 Five customer clusters segmented by <b>Annual Income</b> and <b>Spending Score</b>.<br><br>
 This view helps businesses align product pricing and<br>
 marketing strategies with distinct customer groups.
 </td>
+<td style="width:70%; vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/8ebe0009-a55c-49ce-94bb-258dc0c25694" style="width:100%;"/>
+</td>
 </tr>
 </table>
-
 
 ---
 
