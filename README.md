@@ -36,68 +36,105 @@ This chart provides the most comprehensive segmentation view.
 </table>
 
 ### 2. Distribution of Annual Income
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <p style="margin-right: 20px;">
-    Customer income distribution showing how purchasing power varies across the dataset.  
-    This distribution is foundational for understanding potential segmentation boundaries.
-  </p>
-  <img src="https://github.com/user-attachments/assets/b3d55eab-5716-4261-ac1b-e89295463d44" width="400"/>
-</div>
+<table>
+<tr>
+<td style="width:70%; vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/b3d55eab-5716-4261-ac1b-e89295463d44" style="width:100%;"/>
+</td>
+<td style="width:30%; vertical-align:top;">
+Customer income distribution showing how purchasing power varies<br>
+across the dataset.<br><br>
+This distribution is foundational for understanding<br>
+potential segmentation boundaries.
+</td>
+</tr>
+</table>
 
 ### 3. Violin Plot – Spending by Age
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/0c66b006-ba3e-4078-a8a2-71ba244e716c" width="400"/>
-  <p style="margin-left: 20px;">
-    Spending score variation across age groups, illustrating how younger and older 
-    customers differ in engagement and purchasing patterns.
-  </p>
-</div>
+<table>
+<tr>
+<td style="width:70%;">
+<img src="https://github.com/user-attachments/assets/0c66b006-ba3e-4078-a8a2-71ba244e716c" style="width:100%;"/>
+</td>
+<td style="width:30%; vertical-align:top;">
+Spending score variation across age groups,<br>
+illustrating how younger and older customers differ<br>
+in engagement and purchasing patterns.
+</td>
+</tr>
+</table>
 
 ### 4. Customers in Age Group Bins
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <p style="margin-right: 20px;">
-    Customer counts across defined age bins.  
-    This helps reveal which age groups dominate the customer base 
-    and supports targeted marketing strategies.
-  </p>
-  <img src="https://github.com/user-attachments/assets/344d22a0-f4de-4197-94ed-a808e2dbaf8c" width="400"/>
-</div>
+<table>
+<tr>
+<td style="width:70%; vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/344d22a0-f4de-4197-94ed-a808e2dbaf8" style="width:100%;"/>
+</td>
+<td style="width:30%; vertical-align:top;">
+Customer counts across defined age bins.<br><br>
+This helps reveal which age groups dominate the customer base<br>
+and supports targeted marketing strategies.
+</td>
+</tr>
+</table>
 
 ### 5. Spending Score vs Annual Income
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/053b16e5-c7a3-4c04-94af-579799b36478" width="400"/>
-  <p style="margin-left: 20px;">
-    A scatterplot comparing <b>Annual Income</b> against <b>Spending Score</b>.  
-    Natural clustering patterns are visible, justifying the use of K-Means segmentation.
-  </p>
-</div>
+<table>
+<tr>
+<td style="width:70%;">
+<img src="https://github.com/user-attachments/assets/053b16e5-c7a3-4c04-94af-579799b36478" style="width:100%;"/>
+</td>
+<td style="width:30%; vertical-align:top;">
+A scatterplot comparing <b>Annual Income</b> against <b>Spending Score</b>.<br><br>
+Natural clustering patterns are visible,<br>
+justifying the use of K-Means segmentation.
+</td>
+</tr>
+</table>
 
 ### 6. Elbow Method – Cluster Optimization
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <p style="margin-right: 20px;">
-    The elbow method determines the optimal number of clusters for K-Means.  
-    This ensures a balance between model complexity and interpretability.
-  </p>
-  <img src="https://github.com/user-attachments/assets/0a4a8edc-b8ae-4a6f-8335-572a0a7ffcf8" width="400"/>
-</div>
+<table>
+<tr>
+<td style="width:70%; vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/0a4a8edc-b8ae-4a6f-8335-572a0a7ffcf8" style="width:100%;"/>
+</td>
+<td style="width:30%; vertical-align:top;">
+The elbow method determines the optimal number of clusters<br>
+for K-Means.<br><br>
+This ensures a balance between model complexity and interpretability.
+</td>
+</tr>
+</table>
 
 ### 7. Customer Segments (Age vs Spending Score)
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/9940bcf0-6362-4319-aa36-ebe416645721" width="400"/>
-  <p style="margin-left: 20px;">
-    Four customer clusters identified by <b>Age</b> and <b>Spending Score</b>, with centroids marked.  
-    This segmentation highlights young high spenders, older conservative spenders, and more.
-  </p>
-</div>
+<table>
+<tr>
+<td style="width:70%;">
+<img src="https://github.com/user-attachments/assets/9940bcf0-6362-4319-aa36-ebe416645721" style="width:100%;"/>
+</td>
+<td style="width:30%; vertical-align:top;">
+Four customer clusters identified by <b>Age</b> and <b>Spending Score</b>,<br>
+with centroids marked.<br><br>
+This segmentation highlights young high spenders,<br>
+older conservative spenders, and more.
+</td>
+</tr>
+</table>
 
 ### 8. Customer Segments (Income vs Spending Score)
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <p style="margin-right: 20px;">
-    Five customer clusters segmented by <b>Annual Income</b> and <b>Spending Score</b>.  
-    This view helps businesses align product pricing and marketing strategies with distinct customer groups.
-  </p>
-  <img src="https://github.com/user-attachments/assets/8ebe0009-a55c-49ce-94bb-258dc0c25694" width="400"/>
-</div>
+<table>
+<tr>
+<td style="width:70%; vertical-align:top;">
+<img src="https://github.com/user-attachments/assets/8ebe0009-a55c-49ce-94bb-258dc0c25694" style="width:100%;"/>
+</td>
+<td style="width:30%; vertical-align:top;">
+Five customer clusters segmented by <b>Annual Income</b> and <b>Spending Score</b>.<br><br>
+This view helps businesses align product pricing and<br>
+marketing strategies with distinct customer groups.
+</td>
+</tr>
+</table>
+
 
 ---
 
