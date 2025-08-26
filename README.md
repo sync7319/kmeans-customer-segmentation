@@ -15,7 +15,7 @@ This project replicates a customer segmentation initiative I originally complete
 
 ---
 
-## Tech Stack
+## Tools and Skills
 - **Languages:** Python  
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost  
 - **Techniques:** Clustering, PCA, Logistic Regression, Gradient Boosting, Elbow Optimization, Model Evaluation  
@@ -138,13 +138,6 @@ marketing strategies with distinct customer groups.
 </td>
 </tr>
 </table>
-
----
-
-## Files
-- `customer_segmentation.ipynb` – Main notebook with data preparation, clustering, modeling, and evaluation.
-- `requirements.txt` – List of required dependencies.
-- `images/` – Folder containing saved plots and charts.
 
 ---
 
